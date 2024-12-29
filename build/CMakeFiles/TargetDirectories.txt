@@ -1,0 +1,16 @@
+/Users/riyansh/Altitude_navigator/build/CMakeFiles/AltitudeNavigator.dir
+/Users/riyansh/Altitude_navigator/build/CMakeFiles/test.dir
+/Users/riyansh/Altitude_navigator/build/CMakeFiles/edit_cache.dir
+/Users/riyansh/Altitude_navigator/build/CMakeFiles/rebuild_cache.dir
+/Users/riyansh/Altitude_navigator/build/CMakeFiles/list_install_components.dir
+/Users/riyansh/Altitude_navigator/build/CMakeFiles/install.dir
+/Users/riyansh/Altitude_navigator/build/CMakeFiles/install/local.dir
+/Users/riyansh/Altitude_navigator/build/CMakeFiles/install/strip.dir
+/Users/riyansh/Altitude_navigator/build/tests/CMakeFiles/MyFirstTest.dir
+/Users/riyansh/Altitude_navigator/build/tests/CMakeFiles/test.dir
+/Users/riyansh/Altitude_navigator/build/tests/CMakeFiles/edit_cache.dir
+/Users/riyansh/Altitude_navigator/build/tests/CMakeFiles/rebuild_cache.dir
+/Users/riyansh/Altitude_navigator/build/tests/CMakeFiles/list_install_components.dir
+/Users/riyansh/Altitude_navigator/build/tests/CMakeFiles/install.dir
+/Users/riyansh/Altitude_navigator/build/tests/CMakeFiles/install/local.dir
+/Users/riyansh/Altitude_navigator/build/tests/CMakeFiles/install/strip.dir
